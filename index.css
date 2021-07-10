@@ -1,0 +1,40 @@
+.tanzir{
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    
+}
+
+li{
+    float: right;
+}
+li a{
+    display: block;
+    padding: 14px 60px;
+    color: rgb(87, 0, 248);
+    text-decoration: none;
+
+}
+li a:hover{
+    background-color: black;
+    display: block;
+}
+.body{background-color: chartreuse;
+}
+.tanzir12{
+    color: red;
+}
+.tanzir13{
+    color: blue;
+}
+.tanzir14{
+    color: red;
+}
+.tanzirrrr{
+    background-color: blue;
+}
